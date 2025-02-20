@@ -1,5 +1,10 @@
-# RCX - Rclone for Android
-[![license: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/x0b/rcx/blob/master/LICENSE) [![Github Releases](https://img.shields.io/github/downloads/x0b/rcx/total.svg)](https://github.com/x0b/rcx/releases) [![GitHub release](https://img.shields.io/github/v/release/x0b/rcx?include_prereleases)](https://github.com/x0b/rcx/releases/latest) [![Google Play](https://img.shields.io/badge/Google_Play-stable-brightgreen)](https://play.google.com/store/apps/details?id=io.github.x0b.rcx) [![F-Droid](https://img.shields.io/badge/F%E2%80%93Droid-stable-blue)](https://f-droid.org/packages/io.github.x0b.rcx)
+# RCA - Rclone for Android(project forked from RCX)
+
+RCX stop update and release, now fork new just for fix and update rclone version.
+The README.md will record improvment from me.
+
+
+The following are all copied from RCX project.
 
 A cloud file manager, powered by rclone. 
 
